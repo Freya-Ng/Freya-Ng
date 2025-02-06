@@ -6,8 +6,6 @@
 
 ![Profile Banner](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWQ0NTV1Zmk0MTMxNHlrOTZ3ejM0YW02NHl4cXZpanMxMmcwNWd2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ve4qLcxUIUzokvyirE/giphy.gif)
 
-[![GitHub Streak](https://github-readme-streak-stats-sigma-sooty.vercel.app?user=NguyenHuy190303&theme=dark&card_width=703&card_height=201)](https://git.io/streak-stats)
-
 ---
 
 ### 🚀 AI-Driven and Big Data Projects
@@ -21,8 +19,10 @@ Here’s a glimpse into some of my projects where I combine AI technologies with
 - ...
 
 ---
-
 ### 🛠️ Technical Skills
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Freya-Ng&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
 - **Programming Languages**: `Python`, `C`, `JavaScript`
 - **AI/ML Frameworks**: `PyTorch`, `Keras`
 - **Big Data Frameworks**: `Apache Spark`, `Apache Hadoop`
