@@ -1,80 +1,45 @@
-# Hello World! 🌍 I'm [Your Name] 👋
+## 👋 Hello, I'm Nguyen An Phuong Linh (Freya)!
 
-![Animated Banner](https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif)
+💡 **Data Scientist | AI Enthusiast | Software Developer**
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Oleo+Script+Swash+Caps&size=25&pause=1000&color=FD5C9D&vCenter=true&width=550&height=75&lines=Hi+there!+I+am+Nguyen+An+Phuong+Linh+(Freya)!;I+am+passionate+in+Data+Sciences)](https://git.io/typing-svg)
 
-## 🚀 About Me
-I'm a passionate software developer and AI enthusiast, constantly exploring new technologies and contributing to open-source projects.
+![Profile Banner](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWQ0NTV1Zmk0MTMxNHlrOTZ3ejM0YW02NHl4cXZpanMxMmcwNWd2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ve4qLcxUIUzokvyirE/giphy.gif)
 
-- 🔭 I’m currently working on: **AI Projects & Full-Stack Web Development**
-- 🌱 I’m learning: **Reinforcement Learning** and **Kubernetes**
-- 💬 Ask me about: **Machine Learning, Python, Web Development**
-- ⚡ Fun fact: I love automating tasks with scripts! 😄
+[![GitHub Streak](https://github-readme-streak-stats-sigma-sooty.vercel.app?user=NguyenHuy190303&theme=dark&card_width=703&card_height=201)](https://git.io/streak-stats)
 
 ---
 
-### 🧑‍💻 Languages and Tools:
-<p align="left">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes">
-</p>
+### 🚀 AI-Driven and Big Data Projects
+Here’s a glimpse into some of my projects where I combine AI technologies with large-scale data processing frameworks like **Apache Spark** and **Apache Hadoop**:
+
+- **[Images-Retrieval-Streamlit](https://github.com/NguyenHuy190303/Images-Retrieval-Streamlit)**: A high-performance image retrieval system inspired by Google Image Search, leveraging **Computer Vision** techniques for efficient image-based queries on e-commerce platforms like Shopee, Lazada, and Tiki.
+- **[LLM-PDF-QA](https://github.com/NguyenHuy190303/LLM-PDF-QA)**: A **Question Answering system** that applies **Large Language Models (LLMs)** to extract and analyze information from PDF documents, providing robust insights through **natural language understanding**.
+- **[Mental-Care-AI](https://github.com/NguyenHuy190303/Mental-Care-AI)**: This project utilizes **LLMs** within the **LlamaIndex framework** to provide real-time psychological support, diagnose mental health conditions, and track progress over time with personalized feedback.
+- **[YOLO-Project](https://github.com/NguyenHuy190303/YOLO-Project)**: An application of **YOLOv10** in **Computer Vision** for ensuring worker safety by detecting the presence of helmets in industrial environments.
+- **[Big Data Processing with Apache Spark](https://github.com/NguyenHuy190303/Big-Data-Processing)**: Leveraging **Apache Spark** for distributed data processing and **Apache Hadoop** for managing and storing large datasets, this project showcases efficient batch and real-time processing for big data analysis.
+- ...
 
 ---
 
-### 🌟 Featured Projects:
-<p align="center">
-  <a href="https://github.com/your-username/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project1&theme=radical" alt="Project 1">
-  </a>
-  <a href="https://github.com/your-username/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project2&theme=radical" alt="Project 2">
-  </a>
-</p>
+### 🛠️ Technical Skills
+- **Programming Languages**: `Python`, `C`, `JavaScript`
+- **AI/ML Frameworks**: `PyTorch`, `Keras`
+- **Big Data Frameworks**: `Apache Spark`, `Apache Hadoop`
+- **Data Science & Visualization**: `NumPy`, `Pandas`, `Matplotlib`, `Seaborn`, `Scikit-learn`
+- **Web Frameworks**: `Flask`, `Streamlit`, `FastAPI`, `Gradio`
+- **Tools & DevOps**: `Git`, `Docker`, `Kubernetes`, `Jupyter Notebook`, `Anaconda`, `ngrok`, `Google Cloud Platform (GCP)`
+- **Collaboration Tools**: `GitHub`, `Trello`, `Discord`, `Notion`
 
 ---
 
-### 📈 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" alt="GitHub Streak">
-</p>
+### 📫 Connect with Me
+Feel free to reach out to me through:
+
+- [LinkedIn](https://www.linkedin.com/in/huy-nguyen-5552b22aa/)
+- [Facebook](https://www.facebook.com/LeonidasSun)
+- 📧 [Email](mailto:nguyenhuy190303@gmail.com)
 
 ---
 
-### 🎯 My Goals for 2024:
-- Learn more about **Blockchain** and **Rust**
-- Contribute to **10+ open-source projects**
-- Build an **AI-powered chatbot** for personal use
-
----
-
-### 📫 How to reach me:
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile/)
-- 🐦 [Twitter](https://twitter.com/your-username)
-- ✉️ Email: [your.email@example.com](mailto:your.email@example.com)
-
----
-
-![Animated Coding GIF](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
-
-### ⚡ Fun Fact:
-I love working with open-source communities and building tools that make development easier for everyone! 🎉
-# LeetCode Achievements
-
-![LeetCode Badge](https://img.shields.io/badge/LeetCode-Profile-blue?style=flat-square&logo=leetcode)
-
-## 🏆 My LeetCode Stats
-
-- **Profile:** [huyyeuvn](https://leetcode.com/u/huyyeuvn/)
-- **Total Problems Solved:** 150+
-- **Language:** Python, JavaScript, C++
-- **Focus Areas:** Dynamic Programming, Greedy Algorithms, Graph Theory
-
-🔗 [View my LeetCode profile](https://leetcode.com/u/huyyeuvn/)
-
-![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/huyyeuvn)
-
+_“I believe in using technology as a force for good—bridging divides, fostering connections, and uplifting humanity. Join me in harnessing the power of innovation to create a world where technology serves to unite and empower us all.”_
