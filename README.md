@@ -8,38 +8,64 @@
 
 ---
 
-### 🚀 AI-Driven and Big Data Projects
-Here’s a glimpse into some of my projects where I combine AI technologies with large-scale data processing frameworks like **Apache Spark** and **Apache Hadoop**:
-
-- **[Images-Retrieval-Streamlit](https://github.com/NguyenHuy190303/Images-Retrieval-Streamlit)**: A high-performance image retrieval system inspired by Google Image Search, leveraging **Computer Vision** techniques for efficient image-based queries on e-commerce platforms like Shopee, Lazada, and Tiki.
-- **[LLM-PDF-QA](https://github.com/NguyenHuy190303/LLM-PDF-QA)**: A **Question Answering system** that applies **Large Language Models (LLMs)** to extract and analyze information from PDF documents, providing robust insights through **natural language understanding**.
-- **[Mental-Care-AI](https://github.com/NguyenHuy190303/Mental-Care-AI)**: This project utilizes **LLMs** within the **LlamaIndex framework** to provide real-time psychological support, diagnose mental health conditions, and track progress over time with personalized feedback.
-- **[YOLO-Project](https://github.com/NguyenHuy190303/YOLO-Project)**: An application of **YOLOv10** in **Computer Vision** for ensuring worker safety by detecting the presence of helmets in industrial environments.
-- **[Big Data Processing with Apache Spark](https://github.com/NguyenHuy190303/Big-Data-Processing)**: Leveraging **Apache Spark** for distributed data processing and **Apache Hadoop** for managing and storing large datasets, this project showcases efficient batch and real-time processing for big data analysis.
-- ...
-
----
 ### 🛠️ Technical Skills
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Freya-Ng&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 - **Programming Languages**: `Python`, `C`, `JavaScript`
-- **AI/ML Frameworks**: `PyTorch`, `Keras`
-- **Big Data Frameworks**: `Apache Spark`, `Apache Hadoop`
 - **Data Science & Visualization**: `NumPy`, `Pandas`, `Matplotlib`, `Seaborn`, `Scikit-learn`
-- **Web Frameworks**: `Flask`, `Streamlit`, `FastAPI`, `Gradio`
+- **Web Frameworks**:`Streamlit`
 - **Tools & DevOps**: `Git`, `Docker`, `Kubernetes`, `Jupyter Notebook`, `Anaconda`, `ngrok`, `Google Cloud Platform (GCP)`
-- **Collaboration Tools**: `GitHub`, `Trello`, `Discord`, `Notion`
+- **Collaboration Tools**: `GitHub`, `Discord`, `Notion`
+
+---
+
+### 🚀 Innovating with AI, Data, and Scalable Systems  
+Bringing AI-powered insights, data-driven storytelling, and robust software solutions to life! 🌍💡  
+
+**[Mental-Care-AI](https://github.com/Freya-Ng/Mental-Care-AI)** 🧠💬
+A cutting-edge AI-powered mental health assistant leveraging **LLMs within the LlamaIndex framework** to:
+- Provide **real-time psychological support**
+- Diagnose mental health conditions with AI analysis
+- Track progress over time with **personalized feedback**
+
+📌 **Tech Stack**: LlamaIndex, Large Language Models (LLMs), Python
+
+**[Climate Story Telling](https://github.com/Freya-Ng/Climate-Story-Telling)** 🌍📊
+A data-driven storytelling project developed for **NASA's International Space Apps Challenge 2024**. This project:
+- Integrates AI and visualization techniques
+- Transforms **climate data into engaging narratives**
+- Highlights **environmental changes and their impact**
+
+📌 **Tech Stack**: Python, Data Visualization, AI
+
+**[Grocery List Tracker](https://github.com/Freya-Ng/GroceryListTracker)** 🛒📈
+A **grocery management tool** designed to help users:
+- **Track purchases** efficiently
+- **Compare prices** across different stores
+- **Analyze spending trends** with detailed insights
+
+📌 **Tech Stack**: C#, MariaDB, Windows Application
+
+**[Twitter Backend](https://github.com/Freya-Ng/Twitter-Backend)** 🐦💻
+A backend system replicating **Twitter’s core functionalities**, including:
+- **User authentication & account management**
+- **Post management** with real-time updates
+- **Optimized database storage** for scalable performance
+
+📌 **Tech Stack**: Node.js, Express, PostgreSQL, WebSockets
 
 ---
 
 ### 📫 Connect with Me
 Feel free to reach out to me through:
 
-- [LinkedIn](https://www.linkedin.com/in/huy-nguyen-5552b22aa/)
-- [Facebook](https://www.facebook.com/LeonidasSun)
-- 📧 [Email](mailto:nguyenhuy190303@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/nguyenanphuonglinh/)
+- [Facebook](https://www.facebook.com/flinndangiu/)
+- 📧 [Email](mailto:nguyenanphuonglinh02062003@gmail.com)
 
 ---
 
-_“I believe in using technology as a force for good—bridging divides, fostering connections, and uplifting humanity. Join me in harnessing the power of innovation to create a world where technology serves to unite and empower us all.”_
+_“Without data, you're just another person with an opinion.” — W. Edwards Deming”_
+
+_“An approximate answer to the right problem is worth a good deal more than an exact answer to an approximate problem.” — John Tukey”_
